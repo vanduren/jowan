@@ -1,3 +1,3 @@
-Dit is een voorbeeld van versiebeheer.
+Dit is een probleem voorbeeld van versiebeheer.
 
 En een tweede regel.
